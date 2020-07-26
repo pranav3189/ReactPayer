@@ -61,7 +61,7 @@ export class Barchart extends Component {
                     
                                                                             {  
                     
-                                                                                    label: '2018/2019 Top Scorer',  
+                                                                                    label: '2018/2019 Top ScorerTest',  
                     
                                                                                     data: runscore,  
                     
